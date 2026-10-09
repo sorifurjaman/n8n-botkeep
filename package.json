@@ -1,0 +1,10 @@
+{
+  "name": "n8n-botkeep",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "N8N_PORT=$PORT n8n"
+  },
+  "dependencies": {
+    "n8n": "latest"
+  }
+}
